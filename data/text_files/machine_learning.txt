@@ -1,0 +1,19 @@
+
+Machine Learning
+
+Machine learning is a branch of artificial intelligence that allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every situation. A machine learning model is trained using historical data and then used to predict outcomes for new data.
+
+Machine learning is commonly used in price prediction, recommendation systems, fraud detection, image recognition, customer segmentation, healthcare analysis, chatbots, and natural language processing.
+
+Key Features of Machine Learning:
+
+Learns patterns from data
+Makes predictions based on previous information
+Automates complex decision-making tasks
+Handles large amounts of data
+Improves performance with better training data
+Identifies hidden relationships in datasets
+Supports classification and prediction tasks
+Helps businesses make data-driven decisions
+Can process text, images, audio, and numerical data
+Used in intelligent and automated applications
